@@ -1,6 +1,8 @@
 # bournemouth-sounds
 Sounds recorded at Not Yet Invented workshop 30th September 2023
 
+Licensed under Creative Commons Attribution Share Alike 4.0 International
+
 Attribution 4.0 International
 
 =======================================================================
